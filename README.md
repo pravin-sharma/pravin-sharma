@@ -16,5 +16,5 @@ I am currently working as a Software Engineer at LTI, Navi Mumbai :computer:<br>
 </a>
 
 <a href="mailto:pravinsharma9610@gmail.com">
-  <img align="left" alt="Pravin's Email" src="https://img.icons8.com/dusk/51/000000/google-plus.png"/>
+  <img align="left" alt="Pravin's Email" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png"/>
 </a>
