@@ -12,7 +12,7 @@ I am currently working as a Software Engineer at LTI, Navi Mumbai :computer:<br>
 - ⚡ Life mantra: I never give up :sunglasses:
 
 <a href="https://www.linkedin.com/in/pravin--sharma/">
-  <img align="left" alt="Pravin's LinkedIn" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png"/>
+  <img align="left" alt="Pravin's LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 
 <a href="mailto:pravinsharma9610@gmail.com">
