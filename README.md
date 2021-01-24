@@ -2,10 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
 I am currently working as a Software Engineer at LTI, Navi Mumbai :computer:<br>
-And also an optimisitic, curious and well-focused developer/programmer. :smile: <br>
-
-I have done internships as a Machine Learning Developer Intern [@UdaipurVibes](https://www.udaipurvibes.com/), Udaipur.
-Besides coding, I like public speaking :microphone: and sleeping :sleeping:
+I am an optimisitic, curious and well-focused developer/programmer. :smile: <br>
 
 - :computer: Tech Stack: HTML, CSS, JavaScript, React.js, Express.js, MongoDb, Node.js and REST.
 
