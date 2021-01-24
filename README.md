@@ -13,7 +13,7 @@ I am an optimisitic, curious and well-focused...bleh..bleh.. developer. :smile: 
 - ⚡ Life mantra: I never give up :sunglasses:
 
 <a href="https://www.linkedin.com/in/pravin--sharma/">
-  <img align="left" alt="Pravin's LinkedIn" src="https://img.icons8.com/dusk/51/000000/linkedin.png"/>
+  <img align="left" alt="Pravin's LinkedIn" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png"/>
 </a>
 
 <a href="mailto:pravinsharma9610@gmail.com">
