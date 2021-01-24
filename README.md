@@ -12,10 +12,6 @@ I am an optimisitic, curious and well-focused developer/programmer. :smile: <br>
 - 💬 Ask me about Web Development & Chatbots :heart:
 - ⚡ Life mantra: I never give up :sunglasses:
 
-<a href="https://twitter.com/">
-  <img align="left" alt="Pravins's Twitter" src="https://img.icons8.com/dusk/51/000000/twitter.png"/>
-</a>
-
 <a href="https://www.linkedin.com/in/pravin--sharma/">
   <img align="left" alt="Pravin's LinkedIn" src="https://img.icons8.com/dusk/51/000000/linkedin.png"/>
 </a>
