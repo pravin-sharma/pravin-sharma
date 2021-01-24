@@ -10,8 +10,6 @@ I am an optimisitic, curious and well-focused developer/programmer. :smile: <br>
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on Interesting Projects
 - 💬 Ask me about Web Development & Chatbots :heart:
-- 📫 How to reach me: pravinsharma9610@gmail.com
-- 😄 Pronouns: pruh-vihn
 - ⚡ Life mantra: I never give up :sunglasses:
 
 <a href="https://twitter.com/">
