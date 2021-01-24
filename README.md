@@ -2,7 +2,6 @@
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
 I am currently working as a Software Engineer at LTI, Navi Mumbai :computer:<br>
-I am an optimisitic, curious and well-focused...bleh..bleh.. developer. :smile: <br>
 
 - :computer: Tech Stack: HTML, CSS, JavaScript, React.js, Express.js, MongoDb, Node.js and REST.
 
