@@ -3,7 +3,7 @@
 
 I am currently working as a Software Engineer at LTI, Navi Mumbai :computer:<br>
 
-- :computer: Tech Stack: HTML, CSS, JavaScript, React.js, Express.js, MongoDb, Node.js and REST.
+- :computer: Tech Stack:  Node.js, Express.js, HTML, CSS, JavaScript, React.js, MongoDb, and REST API.
 
 - 🔭 I’m currently working on MERN Stack (MongoDB, Express.js, React.js, & Node.js)
 - 🌱 I’m currently learning React.js
