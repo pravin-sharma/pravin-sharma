@@ -12,10 +12,10 @@ I am currently working as a Software Engineer at LTI, Navi Mumbai :computer:<br>
 - ⚡ Life mantra: I never give up :sunglasses:
 - I don't like to make Simple things look Over Complicated.
 
-<a href="https://www.linkedin.com/in/pravin--sharma/">
+<a href="https://www.linkedin.com/in/pravin--sharma/" target="_blank">
   <img align="left" alt="Pravin's LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png" target='_blank'/>
 </a>
 
-<a href="mailto:pravinsharma9610@gmail.com">
+<a href="mailto:pravinsharma9610@gmail.com" target="_blank">
   <img align="left" alt="Pravin's Email" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png"/>
 </a>
