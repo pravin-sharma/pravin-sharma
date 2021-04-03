@@ -13,7 +13,7 @@ I am currently working as a Software Engineer at LTI, Navi Mumbai :computer:<br>
 - I don't like to make Simple things look Over Complicated.
 
 <a href="https://www.linkedin.com/in/pravin--sharma/">
-  <img align="left" alt="Pravin's LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <img align="left" alt="Pravin's LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png" target='_blank'/>
 </a>
 
 <a href="mailto:pravinsharma9610@gmail.com">
