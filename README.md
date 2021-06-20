@@ -1,16 +1,14 @@
 # Hi there, I'm Pravin 👋
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
-I am a Software Engineer with 2.5 years of development experience, working at LTI :computer:<br>
+I am a Software Engineer with 2.6 years of development experience, working at LTI :computer:<br>
 
-- :computer: Tech Stack:  Node.js, Express.js, HTML, CSS, JavaScript, React.js, MongoDb, and REST API.
-
-- 🔭 I’m currently working on MERN Stack (MongoDB, Express.js, React.js, & Node.js)
+- :computer: Tech Stack:  Node.js, Express.js,  React.js and MongoDb.
 - 🌱 Currently learning React.js
 - 👯 Looking to collaborate on Interesting Projects
 - 💬 Ask me about Web Development & Chatbots :heart:
 - ⚡ Life mantra: I never give up :sunglasses:
-- I don't like to make Simple things look Over Complicated.
+- I like to make Complicated things look Simple.
 
 <a href="https://www.linkedin.com/in/pravin--sharma/" target="_blank">
   <img align="left" alt="Pravin's LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png" target='_blank'/>
