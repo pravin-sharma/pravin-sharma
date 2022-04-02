@@ -3,12 +3,12 @@
 
 I am a Software Engineer with 2.8 years of development experience, working at LTI :computer:<br>
 
-- :computer: Tech Stack:  Node.js, Express.js,  React.js and MongoDb.
+- :computer: Tech Stack:  Node.js, Express.js,  React.js, MySQL and MongoDb.
 - 🌱 Currently mastering the art of micro-services
 - 👯 Looking to collaborate on Interesting Projects
 - 💬 Ask me about Web Development & Chatbots :heart:
 - ⚡ Life mantra: I never give up :sunglasses:
-- I like to make Complicated things look Simple.
+- I love to make Complicated things look Simple.
 
 
 <a href="https://www.linkedin.com/in/pravin--sharma/" target="_blank">
