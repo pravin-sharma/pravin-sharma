@@ -18,8 +18,3 @@ I am a Software Engineer with 2.8 years of development experience, working at LT
 <a href="mailto:pravinsharma9610@gmail.com" target="_blank">
   <img align="left" alt="Pravin's Email" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png"/>
 </a>
-
-<br/>
-<br/>
-<br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=pravin-sharma&show_icons=true&locale=en" alt="pravin-sharma" />
