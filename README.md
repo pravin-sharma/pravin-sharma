@@ -6,10 +6,8 @@ I am a Senior Software Engineer with 4 years of development experience, working 
 - :computer: Tech Stack:  Node.js, Express.js,  React.js, MySQL and MongoDb.
 - 🌱 Currently mastering the art of micro-services
 - 👯 Looking to collaborate on Interesting Projects
-- 💬 Ask me about Web Development & Chatbots :heart:
+- 💬 Ask me about Web Development :heart:
 - ⚡ Life mantra: I never give up :sunglasses:
-- I love to make Complicated things look Simple.
-
 
 <a href="https://www.linkedin.com/in/pravin--sharma/" target="_blank">
   <img align="left" alt="Pravin's LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png" target='_blank'/>
