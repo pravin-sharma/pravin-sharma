@@ -1,7 +1,7 @@
 # Hi there, I'm Pravin 👋
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
-I am a Software Engineer with 2.8 years of development experience, working at LTI :computer:<br>
+I am a Senior Software Engineer with 4 years of development experience, working at LTI :computer:<br>
 
 - :computer: Tech Stack:  Node.js, Express.js,  React.js, MySQL and MongoDb.
 - 🌱 Currently mastering the art of micro-services
