@@ -3,9 +3,9 @@
 
 I am a Senior SDE with 4 years of development experience :computer:<br>
 
-- :computer: Tech Stack:  Node.js, Express.js,  React.js, MySQL and MongoDb.
-- 🌱 Currently mastering the art of micro-services
-- 👯 Looking to collaborate on Interesting Projects
+- :computer: Tech Stack:  MERN, AWS and MySQL.
+- 🌱 Currently mastering the art of micro-services.
+- 👯 Looking to collaborate on Interesting Projects.
 - 💬 Ask me about Web Development :heart:
 - ⚡ Life mantra: I never give up :sunglasses:
 
