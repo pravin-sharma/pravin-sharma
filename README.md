@@ -1,10 +1,10 @@
 # Hi there👋
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
-I am a Senior SDE with 5 years of development experience :computer:<br>
+I am a Senior SDE with 6 years of development experience :computer:<br>
 
 - :computer: Tech Stack:  MERN, AWS and MySQL.
-- 🌱 Currently mastering the art of micro-services.
+- 🌱 Currently mastering the art of developing scalable systems.
 - 👯 Looking to collaborate on Interesting Projects.
 - 💬 Ask me about Web Development :heart:
 - ⚡ Life mantra: I never give up :sunglasses:
